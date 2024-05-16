@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Niyaz 👋
+
+- I'm studying for a bachelor's degree in Physics at Kazan Federal University.
+- I'm currently working on my graduate qualification work in the Department of Computational Physics and Physical Systems Modelling.
+- I'm interested in C++ development, concurrency, backend infrastructure and distributed systems.
 
 <!--
 **mnink275/mnink275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
